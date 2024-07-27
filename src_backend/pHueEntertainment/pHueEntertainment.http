@@ -1,0 +1,6 @@
+@pHueEntertainment_HostAddress = http://localhost:5225
+
+GET {{pHueEntertainment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
