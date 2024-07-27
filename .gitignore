@@ -1,0 +1,8 @@
+# Ignore a specific file
+myfile.txt
+
+# Ignore all .txt files
+*.txt
+
+# Ignore all files in a specific directory
+F:\pHueControl\src_backend\.vs
